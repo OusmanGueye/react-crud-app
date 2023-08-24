@@ -1,29 +1,5 @@
 {
-  "name": "jquery.iframe-transport.js",
-  "url": "localhost:8080/jquery-file-upload/js/jquery.iframe-transport.js",
-
   "products": [
-    {
-      "id": "1",
-      "name": "product1",
-      "price": "100",
-      "quantity": "1",
-      "checked": "true"
-    },
-    {
-      "id": "2",
-      "name": "product2",
-      "price": "200",
-      "quantity": "2",
-      "checked": "false"
-    },
-    {
-      "id": "3",
-      "name": "product3",
-      "price": "300",
-      "quantity": "3",
-      "checked": "true"
-    },
     {
       "id": "4",
       "name": "product4",
